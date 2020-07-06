@@ -1,0 +1,3 @@
+xamarin.forms
+prism
+firebase
