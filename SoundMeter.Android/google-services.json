@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "393105315585",
+    "firebase_url": "https://soundmeter-15ab3.firebaseio.com",
+    "project_id": "soundmeter-15ab3",
+    "storage_bucket": "soundmeter-15ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393105315585:android:8adfe87b745a52cfe06d00",
+        "android_client_info": {
+          "package_name": "com.rakamarafon.soundmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393105315585-i2ecbtqq6g6k6ce4eatgd6mbitmucsui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_RKjq1l9hN0BzG0SoOLLpwf2fPb6X73U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393105315585-i2ecbtqq6g6k6ce4eatgd6mbitmucsui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
